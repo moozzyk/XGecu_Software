@@ -1,13 +1,13 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V12.90  Date : 5.7.2025
-           Supported Devices:   19272
+            Software Version:   V12.96  Date : 8.5.2025
+           Supported Devices:   19326
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
-   
+ 
  [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
@@ -474,6 +474,7 @@
       AT24C08N @TSSOP8                    AT24C16                             AT24C16 @SOIC8                      AT24C16 @TSSOP8                     
       AT24C16A                            AT24C16A @MAP8                      AT24C16A @SOIC8                     AT24C16A @TSSOP8                    
       AT24C16B                            AT24C16B @MAP8                      AT24C16B @SOIC8                     AT24C16B @TSSOP8                    
+      AT24C16N                            AT24C16N @MAP8                      AT24C16N @SOIC8                     AT24C16N @TSSOP8                    
       AT24C21                             AT24C21 @SOIC8                      AT24C32                             AT24C32 @SOIC8                      
       AT24C32 @TSSOP8                     AT24C32A                            AT24C32A @MAP8                      AT24C32A @SOIC8                     
       AT24C32A @TSSOP8                    AT24C32C                            AT24C32C @MAP8                      AT24C32C @SOIC8                     
@@ -859,7 +860,7 @@
       ATTINY2313 @SOIC20                  ATTINY2313V @DIP20                  ATTINY2313V @SOIC20                 ATTINY2313A @DIP20                  
       ATTINY2313A @SOIC20                 ATTINY4313 @DIP20                   ATTINY4313 @SOIC20                  
 
-         IC Support: 1599 PCS
+         IC Support: 1603 PCS
 
  [ BELLING ]     
 
@@ -2552,64 +2553,69 @@
       IS25CD010 @WSON8                    IS25CD020 @SOP8                     IS25CD020 @WSON8                    IS25LD256C @SOP8                    
       IS25LD256C @WSON8                   IS25LD512 @SOP8                     IS25LD512 @WSON8                    IS25LD010 @SOP8                     
       IS25LD010 @WSON8                    IS25LD020 @SOP8                     IS25LD020 @WSON8                    IS25LD040 @SOP8                     
-      IS25LD040 @WSON8                    IS25LP080D @SOIC8                   IS25LP080D @USON8                   IS25LP080D @WSON8                   
-      IS25LP016D @SOIC8                   IS25LP016D @USON8                   IS25LP016D @WSON8                   IS25LP016D @SOIC16                  
-      IS25LP032D @SOIC8                   IS25LP032D @USON8                   IS25LP032D @WSON8                   IS25LP032D @SOIC16                  
-      IS25LP064D @SOIC8                   IS25LP064D @USON8                   IS25LP064D @WSON8                   IS25LP064D @SOIC16                  
-      IS25LP128 @SOIC8                    IS25LP128 @WSON8                    IS25LP128 @SOIC16                   IS25LP128D @SOIC8                   
-      IS25LP128D @WSON8                   IS25LP128D @SOIC16                  IS25LP128F @SOIC8                   IS25LP128F @WSON8                   
-      IS25LP128F @SOIC16                  IS25LP256E @SOIC8                   IS25LP256E @WSON8                   IS25LP256E @SOIC16                  
-      IS25LP512M @SOIC8                   IS25LP512M @WSON8                   IS25LP512M @SOIC16                  IS25LQ025B                          
-      IS25LQ025B @SOP8                    IS25LQ025B @USON8                   IS25LQ512B                          IS25LQ512B @SOP8                    
-      IS25LQ512B @USON8                   IS25LQ010B                          IS25LQ010B @SOP8                    IS25LQ010B @USON8                   
-      IS25LQ020B                          IS25LQ020B @SOP8                    IS25LQ020B @USON8                   IS25LQ040                           
-      IS25LQ040 @SOP8                     IS25LQ040 @USON8                    IS25LQ040B                          IS25LQ040B @SOP8                    
-      IS25LQ040B @USON8                   IS25LQ080                           IS25LQ080 @SOP8                     IS25LQ080 @USON8                    
-      IS25LQ080B                          IS25LQ080B @SOP8                    IS25LQ080B @USON8                   IS25LQ080B @WSON8                   
-      IS25LQ080B @SOP16                   IS25LQ016B                          IS25LQ016B @SOP8                    IS25LQ016B @USON8                   
-      IS25LQ016B @WSON8                   IS25LQ016B @SOP16                   IS25LQ016C                          IS25LQ016C @SOP8                    
-      IS25LQ016C @USON8                   IS25LQ016C @WSON8                   IS25LQ016C @SOP16                   IS25LQ032B                          
-      IS25LQ032B @SOP8                    IS25LQ032B @USON8                   IS25LQ032B @WSON8                   IS25LQ032B @SOP16                   
-      IS25LQ032C                          IS25LQ032C @SOP8                    IS25LQ032C @USON8                   IS25LQ032C @WSON8                   
-      IS25LQ032C @SOP16                   IS25WD020 @SOP8                     IS25WD020 @WSON8                    IS25WD040 @SOP8                     
-      IS25WD040 @WSON8                    IS25WP020D @SOIC8                   IS25WP020D @USON8                   IS25WP020D @WSON8                   
-      IS25WP040D @SOIC8                   IS25WP040D @USON8                   IS25WP040D @WSON8                   IS25WP080D @SOIC8                   
-      IS25WP080D @USON8                   IS25WP080D @WSON8                   IS25WP016D @SOIC8                   IS25WP016D @USON8                   
-      IS25WP016D @WSON8                   IS25WP016D @SOIC16                  IS25WP032D @SOIC8                   IS25WP032D @USON8                   
-      IS25WP032D @WSON8                   IS25WP032D @SOIC16                  IS25WP064D @SOIC8                   IS25WP064D @USON8                   
-      IS25WP064D @WSON8                   IS25WP064D @SOIC16                  IS25WP128 @SOIC8                    IS25WP128 @WSON8                    
-      IS25WP128 @SOIC16                   IS25WP128D @SOIC8                   IS25WP128D @WSON8                   IS25WP128D @SOIC16                  
-      IS25WP128F @SOIC8                   IS25WP128F @WSON8                   IS25WP128F @SOIC16                  IS25WP256E @SOIC8                   
-      IS25WP256E @WSON8                   IS25WP256E @SOIC16                  IS25WP512M @SOIC8                   IS25WP512M @WSON8                   
-      IS25WP512M @SOIC16                  IS25WQ020 @SOP8                     IS25WQ020 @WSON8                    IS25WQ040 @SOP8                     
-      IS25WQ040 @WSON8                    IS25WQ080 @SOP8                     IS25WQ080 @WSON8                    IS25WQ080 @SOIC16                   
-      IS25WQ016                           IS25WQ016 @SOP8                     IS25WQ016 @WSON8                    IS25WQ016 @SOIC16                   
-      IS25WQ032                           IS25WQ032 @SOP8                     IS25WQ032 @WSON8                    IS25WQ032 @SOP16                    
-      IS27C010   @DIP32                   IS27C010   @PLCC32                  IS27C010   @TSOP32                  IS27C010   @TSOP32(ADP:Pin9 to 1)   
-      IS27C020   @DIP32                   IS27C020   @PLCC32                  IS27C020   @TSOP32                  IS27C020   @TSOP32(ADP:Pin9 to 1)   
-      IS27C256   @DIP28                   IS27C256   @PLCC32                  IS27C512   @DIP28                   IS27C512   @PLCC32                  
-      IS27HC010   @DIP32                  IS27HC010   @PLCC32                 IS27HC010   @TSOP32                 IS27HC010   @TSOP32(ADP:Pin9 to 1)  
-      IS27HC020   @DIP32                  IS27HC020   @PLCC32                 IS27HC020   @TSOP32                 IS27HC020   @TSOP32(ADP:Pin9 to 1)  
-      IS27HC256   @DIP28                  IS27HC256   @PLCC32                 IS27HC512   @DIP28                  IS27HC512   @PLCC32                 
-      IS27LV010   @DIP32                  IS27LV010   @PLCC32                 IS27LV010   @TSOP32                 IS27LV010   @TSOP32(ADP:Pin9 to 1)  
-      IS27LV020   @DIP32                  IS27LV020   @PLCC32                 IS27LV020   @TSOP32                 IS27LV020   @TSOP32(ADP:Pin9 to 1)  
-      IS27LV256   @DIP28                  IS27LV256   @PLCC32                 IS27LV512   @DIP28                  IS27LV512   @PLCC32                 
-      IS28F010                            IS28F010 @PLCC32                    IS28F010 @TSOP32                    IS28F010 @TSOP32(ADP:Pin9 to 1)     
-      IS28F020                            IS28F020 @PLCC32                    IS28F020 @TSOP32                    IS28F020 @TSOP32(ADP:Pin9 to 1)     
-      IS93C46(x8)                         IS93C46(x8) @SOIC8                  IS93C46(x8) @TSOP8                  IS93C46A(x8)                        
-      IS93C46A(x8) @SOIC8                 IS93C46A(x8) @TSOP8                 IS93C46A(x16)                       IS93C46A(x16) @SOIC8                
-      IS93C46A(x16) @TSOP8                IS93C46B                            IS93C46B @SOIC8                     IS93C46B @TSOP8                     
-      IS93C46D(x8)                        IS93C46D(x8) @SOIC8                 IS93C46D(x8) @TSOP8                 IS93C46D(x16)                       
-      IS93C46D(x16) @SOIC8                IS93C46D(x16) @TSOP8                IS93C56(x16)                        IS93C56(x16) @SOIC8                 
-      IS93C56A(x8)                        IS93C56A(x8) @SOIC8                 IS93C56A(x8) @TSOP8                 IS93C56A(x16)                       
-      IS93C56A(x16) @SOIC8                IS93C56A(x16) @TSOP8                IS93C66(x16)                        IS93C66(x16) @SOIC8                 
-      IS93C66(x16) @TSOP8                 IS93C66A(x8)                        IS93C66A(x8) @SOIC8                 IS93C66A(x8) @TSOP8                 
-      IS93C66A(x16)                       IS93C66A(x16) @SOIC8                IS93C66A(x16) @TSOP8                IS93C76A(x8)                        
-      IS93C76A(x8) @SOIC8                 IS93C76A(x8) @TSOP8                 IS93C76A(x16)                       IS93C76A(x16) @SOIC8                
-      IS93C76A(x16) @TSOP8                IS93C86A(x8)                        IS93C86A(x8) @SOIC8                 IS93C86A(x8) @TSOP8                 
-      IS93C86A(x16)                       IS93C86A(x16) @SOIC8                IS93C86A(x16) @TSOP8                
+      IS25LD040 @WSON8                    IS25LE128F @SOIC8                   IS25LE128F @WSON8                   IS25LE128F @SOIC16                  
+      IS25LE256E @SOIC8                   IS25LE256E @WSON8                   IS25LE256E @SOIC16                  IS25LE512M @SOIC8                   
+      IS25LE512M @WSON8                   IS25LE512M @SOIC16                  IS25LP080D @SOIC8                   IS25LP080D @USON8                   
+      IS25LP080D @WSON8                   IS25LP016D @SOIC8                   IS25LP016D @USON8                   IS25LP016D @WSON8                   
+      IS25LP016D @SOIC16                  IS25LP032D @SOIC8                   IS25LP032D @USON8                   IS25LP032D @WSON8                   
+      IS25LP032D @SOIC16                  IS25LP064D @SOIC8                   IS25LP064D @USON8                   IS25LP064D @WSON8                   
+      IS25LP064D @SOIC16                  IS25LP128 @SOIC8                    IS25LP128 @WSON8                    IS25LP128 @SOIC16                   
+      IS25LP128D @SOIC8                   IS25LP128D @WSON8                   IS25LP128D @SOIC16                  IS25LP128F @SOIC8                   
+      IS25LP128F @WSON8                   IS25LP128F @SOIC16                  IS25LP256E @SOIC8                   IS25LP256E @WSON8                   
+      IS25LP256E @SOIC16                  IS25LP512M @SOIC8                   IS25LP512M @WSON8                   IS25LP512M @SOIC16                  
+      IS25LQ025B                          IS25LQ025B @SOP8                    IS25LQ025B @USON8                   IS25LQ512B                          
+      IS25LQ512B @SOP8                    IS25LQ512B @USON8                   IS25LQ010B                          IS25LQ010B @SOP8                    
+      IS25LQ010B @USON8                   IS25LQ020B                          IS25LQ020B @SOP8                    IS25LQ020B @USON8                   
+      IS25LQ040                           IS25LQ040 @SOP8                     IS25LQ040 @USON8                    IS25LQ040B                          
+      IS25LQ040B @SOP8                    IS25LQ040B @USON8                   IS25LQ080                           IS25LQ080 @SOP8                     
+      IS25LQ080 @USON8                    IS25LQ080B                          IS25LQ080B @SOP8                    IS25LQ080B @USON8                   
+      IS25LQ080B @WSON8                   IS25LQ080B @SOP16                   IS25LQ016B                          IS25LQ016B @SOP8                    
+      IS25LQ016B @USON8                   IS25LQ016B @WSON8                   IS25LQ016B @SOP16                   IS25LQ016C                          
+      IS25LQ016C @SOP8                    IS25LQ016C @USON8                   IS25LQ016C @WSON8                   IS25LQ016C @SOP16                   
+      IS25LQ032B                          IS25LQ032B @SOP8                    IS25LQ032B @USON8                   IS25LQ032B @WSON8                   
+      IS25LQ032B @SOP16                   IS25LQ032C                          IS25LQ032C @SOP8                    IS25LQ032C @USON8                   
+      IS25LQ032C @WSON8                   IS25LQ032C @SOP16                   IS25WD020 @SOP8                     IS25WD020 @WSON8                    
+      IS25WD040 @SOP8                     IS25WD040 @WSON8                    IS25WE128F @SOIC8                   IS25WE128F @WSON8                   
+      IS25WE128F @SOIC16                  IS25WE256E @SOIC8                   IS25WE256E @WSON8                   IS25WE256E @SOIC16                  
+      IS25WE512M @SOIC8                   IS25WE512M @WSON8                   IS25WE512M @SOIC16                  IS25WP020D @SOIC8                   
+      IS25WP020D @USON8                   IS25WP020D @WSON8                   IS25WP040D @SOIC8                   IS25WP040D @USON8                   
+      IS25WP040D @WSON8                   IS25WP080D @SOIC8                   IS25WP080D @USON8                   IS25WP080D @WSON8                   
+      IS25WP016D @SOIC8                   IS25WP016D @USON8                   IS25WP016D @WSON8                   IS25WP016D @SOIC16                  
+      IS25WP032D @SOIC8                   IS25WP032D @USON8                   IS25WP032D @WSON8                   IS25WP032D @SOIC16                  
+      IS25WP064D @SOIC8                   IS25WP064D @USON8                   IS25WP064D @WSON8                   IS25WP064D @SOIC16                  
+      IS25WP128 @SOIC8                    IS25WP128 @WSON8                    IS25WP128 @SOIC16                   IS25WP128D @SOIC8                   
+      IS25WP128D @WSON8                   IS25WP128D @SOIC16                  IS25WP128F @SOIC8                   IS25WP128F @WSON8                   
+      IS25WP128F @SOIC16                  IS25WP256E @SOIC8                   IS25WP256E @WSON8                   IS25WP256E @SOIC16                  
+      IS25WP512M @SOIC8                   IS25WP512M @WSON8                   IS25WP512M @SOIC16                  IS25WQ020 @SOP8                     
+      IS25WQ020 @WSON8                    IS25WQ040 @SOP8                     IS25WQ040 @WSON8                    IS25WQ080 @SOP8                     
+      IS25WQ080 @WSON8                    IS25WQ080 @SOIC16                   IS25WQ016                           IS25WQ016 @SOP8                     
+      IS25WQ016 @WSON8                    IS25WQ016 @SOIC16                   IS25WQ032                           IS25WQ032 @SOP8                     
+      IS25WQ032 @WSON8                    IS25WQ032 @SOP16                    IS27C010   @DIP32                   IS27C010   @PLCC32                  
+      IS27C010   @TSOP32                  IS27C010   @TSOP32(ADP:Pin9 to 1)   IS27C020   @DIP32                   IS27C020   @PLCC32                  
+      IS27C020   @TSOP32                  IS27C020   @TSOP32(ADP:Pin9 to 1)   IS27C256   @DIP28                   IS27C256   @PLCC32                  
+      IS27C512   @DIP28                   IS27C512   @PLCC32                  IS27HC010   @DIP32                  IS27HC010   @PLCC32                 
+      IS27HC010   @TSOP32                 IS27HC010   @TSOP32(ADP:Pin9 to 1)  IS27HC020   @DIP32                  IS27HC020   @PLCC32                 
+      IS27HC020   @TSOP32                 IS27HC020   @TSOP32(ADP:Pin9 to 1)  IS27HC256   @DIP28                  IS27HC256   @PLCC32                 
+      IS27HC512   @DIP28                  IS27HC512   @PLCC32                 IS27LV010   @DIP32                  IS27LV010   @PLCC32                 
+      IS27LV010   @TSOP32                 IS27LV010   @TSOP32(ADP:Pin9 to 1)  IS27LV020   @DIP32                  IS27LV020   @PLCC32                 
+      IS27LV020   @TSOP32                 IS27LV020   @TSOP32(ADP:Pin9 to 1)  IS27LV256   @DIP28                  IS27LV256   @PLCC32                 
+      IS27LV512   @DIP28                  IS27LV512   @PLCC32                 IS28F010                            IS28F010 @PLCC32                    
+      IS28F010 @TSOP32                    IS28F010 @TSOP32(ADP:Pin9 to 1)     IS28F020                            IS28F020 @PLCC32                    
+      IS28F020 @TSOP32                    IS28F020 @TSOP32(ADP:Pin9 to 1)     IS93C46(x8)                         IS93C46(x8) @SOIC8                  
+      IS93C46(x8) @TSOP8                  IS93C46A(x8)                        IS93C46A(x8) @SOIC8                 IS93C46A(x8) @TSOP8                 
+      IS93C46A(x16)                       IS93C46A(x16) @SOIC8                IS93C46A(x16) @TSOP8                IS93C46B                            
+      IS93C46B @SOIC8                     IS93C46B @TSOP8                     IS93C46D(x8)                        IS93C46D(x8) @SOIC8                 
+      IS93C46D(x8) @TSOP8                 IS93C46D(x16)                       IS93C46D(x16) @SOIC8                IS93C46D(x16) @TSOP8                
+      IS93C56(x16)                        IS93C56(x16) @SOIC8                 IS93C56A(x8)                        IS93C56A(x8) @SOIC8                 
+      IS93C56A(x8) @TSOP8                 IS93C56A(x16)                       IS93C56A(x16) @SOIC8                IS93C56A(x16) @TSOP8                
+      IS93C66(x16)                        IS93C66(x16) @SOIC8                 IS93C66(x16) @TSOP8                 IS93C66A(x8)                        
+      IS93C66A(x8) @SOIC8                 IS93C66A(x8) @TSOP8                 IS93C66A(x16)                       IS93C66A(x16) @SOIC8                
+      IS93C66A(x16) @TSOP8                IS93C76A(x8)                        IS93C76A(x8) @SOIC8                 IS93C76A(x8) @TSOP8                 
+      IS93C76A(x16)                       IS93C76A(x16) @SOIC8                IS93C76A(x16) @TSOP8                IS93C86A(x8)                        
+      IS93C86A(x8) @SOIC8                 IS93C86A(x8) @TSOP8                 IS93C86A(x16)                       IS93C86A(x16) @SOIC8                
+      IS93C86A(x16) @TSOP8                
 
-         IC Support: 387 PCS
+         IC Support: 405 PCS
 
  [ ITE [Testing] ]     
 
@@ -2869,7 +2875,8 @@
       MX25U12835F @SOP16                  MX25U12835F(OTP) @SOP8              MX25U12835F(OTP) @WSON8             MX25U12835F(OTP) @SOP16             
       MX25U12873F @SOP8                   MX25U12873F @WSON8                  MX25U12873F @SOP16                  MX25U25635F @SOIC8                  
       MX25U25635F @SOIC16                 MX25U25673F @SOIC8                  MX25U25673F @SOIC16                 MX25U25673G @SOIC8                  
-      MX25U25673G @SOIC16                 MX25U25645G @SOIC8                  MX25U25645G @SOIC16                 MX25U25645G(OTP) @SOIC8             
+      MX25U25673G @SOIC16                 MX25U25643G @SOIC8                  MX25U25643G @SOIC16                 MX25U25643G(OTP) @SOIC8             
+      MX25U25643G(OTP) @SOIC16            MX25U25645G @SOIC8                  MX25U25645G @SOIC16                 MX25U25645G(OTP) @SOIC8             
       MX25U25645G(OTP) @SOIC16            MX25U51245G @SOIC8                  MX25U51245G @SOIC16                 MX25U51245G(OTP) @SOIC8             
       MX25U51245G(OTP) @SOIC16            MX25V512                            MX25V512 @SOP8                      MX25V512 @WSOP8                     
       MX25V512C                           MX25V512C @SOP8                     MX25V512C @WSOP8                    MX25V512E                           
@@ -2970,7 +2977,7 @@
       MX30LF4G28AB @TSOP48                MX30LF4G28AC @TSOP48                MX30LF4G28AD @TSOP48                MX30LF4GE8AB @TSOP48                
       MX60LF8G18AC @TSOP48                MX60LF8G28AB @TSOP48                MX60LF8G28AC @TSOP48                MX60LF8G28AD @TSOP48                
 
-         IC Support: 1044 PCS
+         IC Support: 1048 PCS
 
  [ MAXCOM ]     
 
@@ -4549,14 +4556,16 @@
       S25FL116K @WSON                     S25FL116K @SOIC16                   S25FL128K @SOIC8                    S25FL128K @SOIC16                   
       S25FL128K @SOIC16 (9V)              S25FL128P(64KB) @SOIC8              S25FL128P(64KB) @SOIC16             S25FL128P(64KB) @SOIC16             
       S25FL128P(256KB) @SOIC8             S25FL128P(256KB) @SOIC16            S25FL128P(256KB) @SOIC16            S25FL129P        @SOIC8             
-      S25FL129P        @SOIC16            S25FL129P        @SOIC16            S25FL128S(Page=256) @SOIC8          S25FL128S(Page=256) @SOIC16         
-      S25FL128S(Page=256) @SOIC16 (9V)    S25FL128S(Page=512) @SOIC8          S25FL128S(Page=512) @SOIC16         S25FL128S(Page=512) @SOIC16 (9V)    
+      S25FL129P        @SOIC16            S25FL129P        @SOIC16            S25FL128S @SOIC8                    S25FL128S @SOIC16                   
       S25FL132K @SOIC8                    S25FL132K @USON                     S25FL132K @WSON                     S25FL132K @SOIC16                   
       S25FL164K @SOIC8                    S25FL164K @USON                     S25FL164K @WSON                     S25FL164K @SOIC16                   
       S25FL064L @SOIC8                    S25FL064L @SOIC16                   S25FL128L @SOIC8                    S25FL128L @SOIC16                   
-      S25FL256L @SOIC8                    S25FL256L @SOIC16                   S25FL256S(Page=256) @SOIC8          S25FL256S(Page=256) @SOIC16         
-      S25FL256S(Page=512) @SOIC8          S25FL256S(Page=512) @SOIC16         S25FL512S(Page=256) @SOIC8          S25FL512S(Page=256) @SOIC16         
-      S25FL512S(Page=512) @SOIC8          S25FL512S(Page=512) @SOIC16         S25FS064S @SOIC8                    S25FS064S @SOIC16                   
+      S25FL256L @SOIC8                    S25FL256L @SOIC16                   S25FL256SxxF0x @WSON8               S25FL256SxxF9x @WSON8               
+      S25FL256SxxFGx @WSON8               S25FL256SxxFRx @WSON8               S25FL256SxxF0x @SOIC16              S25FL256SxxH2x @BGA24 5x5B          
+      S25FL256SxxH3x @BGA24 4x6B          S25FL256SxxH4x @BGA24 5x5B          S25FL256SxxH8x @BGA24 4x6B          S25FL256SxxHDx @BGA24 4x6B          
+      S25FL256SxxHAx @BGA24 5x5B(SP.ADP)  S25FL256SxxHBx @BGA24 4x6B(SP.ADP)  S25FL256SxxH7x @BGA24 5x5B(SP.ADP)  S25FL256SxxH6x @BGA24 4x6B(SP.ADP)  
+      S25FL256SxxHCx @BGA24 5x5B          S25FL256SxxHDx @BGA24 4x6B          S25FL256SxxHEx @BGA24 5x5B          S25FL256SxxHFx @BGA24 4x6B          
+      S25FL512S @SOIC8                    S25FL512S @SOIC16                   S25FS064S @SOIC8                    S25FS064S @SOIC16                   
       S25FS128S @SOIC8                    S25FS128S @SOIC16                   S29AL004D55MAI01 @SOP44             S29AL004D55MAI02 @SOP44             
       S29AL004D55MANR1 @SOP44             S29AL004D55MANR2 @SOP44             S29AL004D55MFI01 @SOP44             S29AL004D55MFI02 @SOP44             
       S29AL004D55MFNR1 @SOP44             S29AL004D55MFNR2 @SOP44             S29AL004D55TAI01 @TSOP48            S29AL004D55TAI02 @TSOP48            
@@ -4672,7 +4681,7 @@
       S29JL064H60TFI00 @TSOP48            S29JL064H70TAI00 @TSOP48            S29JL064H70TFI00 @TSOP48            S29JL064H90TAI00 @TSOP48            
       S29JL064H90TFI00 @TSOP48            S29JL064J55TFI00 @TSOP48            S29JL064J60TFI00 @TSOP48            S29JL064J70TFI00 @TSOP48            
 
-         IC Support: 952 PCS
+         IC Support: 960 PCS
 
  [ SPANSION(2) ]     
 
@@ -4834,8 +4843,9 @@
       M25PE80 @SOIC8                      M25PX16 @SOIC8                      M25PX16 @SOIC16                     M25PX32 @SOIC8                      
       M25PX32 @SOIC16                     M25PX64 @SOIC8                      M25PX64 @SOIC16                     M25PX80                             
       M25PX80 @SOIC8                      M25W01                              M25W02                              M25W04                              
-      M25W08                              M25W16                              M35080-3                            M35080-3 @SOIC8                     
-      M35080-6                            M35080-6 @SOIC8                     M35080V6                            M35080V6 @SOIC8                     
+      M25W08                              M25W16                              M35080-3(1)                         M35080-3(1) @SOIC8                  
+      M35080-6(1)                         M35080-6(1) @SOIC8                  M35080-3(2)                         M35080-3(2) @SOIC8                  
+      M35080-6(2)                         M35080-6(2) @SOIC8                  M35080V6                            M35080V6 @SOIC8                     
       M35080VP                            M35080VP @SOIC8                     M27128A @DIP28                      M2716 @DIP24                        
       M27256 @DIP28                       M2732A @DIP24                       M27512 @DIP28                       M2764A @DIP28                       
       M27C1001 @DIP32                     M27C1001 @PLCC32                    M27C1001 @TSOP32                    M27C1001 @TSOP32(ADP:Pin9 to 1)     
@@ -5031,7 +5041,7 @@
       ST95P04 @SOIC8                      ST95P08                             ST95P08 @SOIC8                      TS27C256 @DIP28                     
       TS27C64A @DIP28                     TS27C64A @PLCC32                    
 
-         IC Support: 942 PCS
+         IC Support: 946 PCS
 
  [ SUMMIT ]     
 
@@ -5314,10 +5324,11 @@
       W25Q32DW 1.8V(OTP)                  W25Q32DW 1.8V(OTP)@WSON8            W25Q32DW 1.8V(OTP)@SOIC8            W25Q32DW 1.8V(OTP)@SOIC16           
       W25Q32FV                            W25Q32FV @WSON8                     W25Q32FV @SOIC8                     W25Q32FV @SOIC16                    
       W25Q32FV(OTP)                       W25Q32FV(OTP) @WSON8                W25Q32FV(OTP) @SOIC8                W25Q32FV(OTP) @SOIC16               
-      W25Q32FW 1.8V                       W25Q32FW 1.8V @WSON8                W25Q32FW 1.8V @SOIC8                W25Q32FW 1.8V @SOIC16               
-      W25Q32FW 1.8V(OTP)                  W25Q32FW 1.8V(OTP)@WSON8            W25Q32FW 1.8V(OTP)@SOIC8            W25Q32FW 1.8V(OTP)@SOIC16           
+      W25Q32FW                            W25Q32FW @WSON8                     W25Q32FW @SOIC8                     W25Q32FW @SOIC16                    
       W25Q32JV                            W25Q32JV @WSON8                     W25Q32JV @SOIC8                     W25Q32JV @SOIC16                    
       W25Q32JV(OTP)                       W25Q32JV(OTP) @WSON8                W25Q32JV(OTP) @SOIC8                W25Q32JV(OTP) @SOIC16               
+      W25Q32JW                            W25Q32JW @WSON8                     W25Q32JW @SOIC8                     W25Q32JW @SOIC16                    
+      W25Q32JW-IM                         W25Q32JW-IM @WSON8                  W25Q32JW-IM @SOIC8                  W25Q32JW-IM @SOIC16                 
       W25Q32V @MLP8                       W25Q32V @SOIC16                     W25Q32V(OTP) @MLP8                  W25Q32V(OTP) @SOIC16                
       W25Q64BV                            W25Q64BV @WSON8                     W25Q64BV @SOIC8                     W25Q64BV @SOIC16                    
       W25Q64BV(OTP)                       W25Q64BV(OTP) @WSON8                W25Q64BV(OTP) @SOIC8                W25Q64BV(OTP) @SOIC16               
@@ -5353,7 +5364,8 @@
       W25Q256JW(OTP) @SOIC16              W25Q256JWxM-DTR @SOIC8              W25Q256JWxM-DTR @WSON8(6x5 mm)      W25Q256JWxM-DTR @WSON8(8x6 mm)      
       W25Q256JWxM-DTR @SOIC16             W25Q512JVSxM-DTR @SOIC8             W25Q512JVPxM-DTR @WSON8(6x5 mm)     W25Q512JVExM-DTR @WSON8(8x6 mm)     
       W25Q512JVFxM-DTR @SOIC16            W25H512JVSxM-DTR @SOIC8             W25H512JVPxM-DTR @WSON8(6x5 mm)     W25H512JVExM-DTR @WSON8(8x6 mm)     
-      W25H512JVFxM-DTR @SOIC16            W25X05                              W25X05 @WSON8                       W25X05 @SOIC8                       
+      W25H512JVFxM-DTR @SOIC16            W25Q512NWE-IQ.IN @WSON8(8x6 mm)     W25Q512NWF-IQ.IN @SOIC16            W25Q512NWE-IM.ID @WSON8(8x6 mm)     
+      W25Q512NWF-IM.ID @SOIC16            W25X05                              W25X05 @WSON8                       W25X05 @SOIC8                       
       W25X05CL                            W25X05CL @WSON8                     W25X05CL @SOIC8                     W25X10AV                            
       W25X10AV @WSON8                     W25X10AV @SOIC8                     W25X10BL                            W25X10BL @WSON8                     
       W25X10BL @SOIC8                     W25X10BV                            W25X10BV @WSON8                     W25X10BV @SOIC8                     
@@ -5410,38 +5422,39 @@
       W29EE010 @PLCC32                    W29EE010 @TSOP32                    W29EE010 @TSOP32(ADP:Pin9 to 1)     W29EE011                            
       W29EE011 @PLCC32                    W29EE011 @TSOP32                    W29EE011 @TSOP32(ADP:Pin9 to 1)     W29EE012                            
       W29EE012 @PLCC32                    W29EE012 @TSOP32                    W29EE012 @TSOP32(ADP:Pin9 to 1)     W29EE512                            
-      W29EE512 @PLCC32                    W29EE512 @TSOP32                    W29EE512 @TSOP32(ADP:Pin9 to 1)     W29N01HVSI  @TSOP48                 
-      W29N01GVSCAA @TSOP48                W29N01GVSIAA @TSOP48                W29N02GVSIAA @TSOP48                W29N02GVSIAF @TSOP48                
-      W29N02KVSIAF @TSOP48                W29N04GVSIAA @TSOP48                W29N08GVSIAA @TSOP48                W29N08GVSIAF @TSOP48                
-      W39F010                             W39F010 @PLCC32                     W39F010 @TSOP32                     W39F010 @TSOP32(ADP:Pin9 to 1)      
-      W39L010 @PLCC32                     W39L010 @TSOP32                     W39L010 @TSOP32(ADP:Pin9 to 1)      W39L020 @PLCC32                     
-      W39L020 @TSOP32                     W39L020 @TSOP32(ADP:Pin9 to 1)      W39L040 @PLCC32                     W39L040 @TSOP32                     
-      W39L040 @TSOP32(ADP:Pin9 to 1)      W39L040A                            W39L040AP @PLCC32                   W39L040AT @TSOP32                   
-      W39L040AT @TSOP32(ADP:Pin9 to 1)    W39L040AQ @VSOP32                   W39L040AQ @VSOP32(ADP:Pin9 to 1)    W39L512 @PLCC32                     
-      W39L512 @TSOP32                     W39L512 @TSOP32(ADP:Pin9 to 1)      W39V040A  @PLCC32                   W39V040A  @TSOP32                   
-      W39V040A  @TSOP32(ADP:Pin9 to 1)    W39V040B  @PLCC32                   W39V040B  @TSOP32                   W39V040B  @TSOP32(ADP:Pin9 to 1)    
-      W39V040C  @PLCC32                   W39V040C  @TSOP32                   W39V040C  @TSOP32(ADP:Pin9 to 1)    W39V040FA @PLCC32                   
-      W39V040FA @TSOP32                   W39V040FA @TSOP32(ADP:Pin9 to 1)    W39V040FB @PLCC32                   W39V040FB @TSOP32                   
-      W39V040FB @TSOP32(ADP:Pin9 to 1)    W39V040FC @PLCC32                   W39V040FC @TSOP32                   W39V040FC @TSOP32(ADP:Pin9 to 1)    
-      W39V080A  @PLCC32                   W39V080A  @TSOP32                   W39V080A  @TSOP32(ADP:Pin9 to 1)    W39V080A  @TSOP40                   
-      W39V080FA @PLCC32                   W39V080FA @TSOP32                   W39V080FA @TSOP32(ADP:Pin9 to 1)    W39V080FA @TSOP40                   
-      W49F002                             W49F002 @PLCC32                     W49F002 @TSOP32                     W49F002 @TSOP32(ADP:Pin9 to 1)      
-      W49F002A                            W49F002A @PLCC32                    W49F002A @TSOP32                    W49F002A @TSOP32(ADP:Pin9 to 1)     
-      W49F002B                            W49F002B @PLCC32                    W49F002B @TSOP32                    W49F002B @TSOP32(ADP:Pin9 to 1)     
-      W49F002U                            W49F002U @PLCC32                    W49F002U @TSOP32                    W49F002U @TSOP32(ADP:Pin9 to 1)     
-      W49F020                             W49F020 @PLCC32                     W49F020 @TSOP32                     W49F020 @TSOP32(ADP:Pin9 to 1)      
-      W49F102Q(10x14mm) @VSOP40           W49F201T @TSOP48                    W49F201S @SOP44                     W49L102Q(10x14mm) @VSOP40           
-      W49L201T @TSOP48                    W49L201S @SOP44                     W49V002 @PLCC32                     W49V002 @TSOP32                     
-      W49V002 @TSOP32(ADP:Pin9 to 1)      W49V002A @PLCC32                    W49V002A @TSOP32                    W49V002A @TSOP32(ADP:Pin9 to 1)     
-      W49V002F @PLCC32                    W49V002F @TSOP32                    W49V002F @TSOP32(ADP:Pin9 to 1)     W49V002FA @PLCC32                   
-      W49V002FA @TSOP32                   W49V002FA @TSOP32(ADP:Pin9 to 1)    W78E51 @DIP40                       W78E51 @PLCC44                      
-      W78E51B @DIP40                      W78E51BP @PLCC44                    W78E51C @DIP40                      W78E51CP @PLCC44                    
-      W78E52 @DIP40                       W78E52 @PLCC44                      W78E52B @DIP40                      W78E52BP @PLCC44                    
-      W78E52C @DIP40                      W78E52CP @PLCC44                    W78E54 @DIP40                       W78E54 @PLCC44                      
-      W78E54B @DIP40                      W78E54BP @PLCC44                    W78E54C @DIP40                      W78E54CP @PLCC44                    
-      W78E58 @DIP40                       W78E58P @PLCC44                     
+      W29EE512 @PLCC32                    W29EE512 @TSOP32                    W29EE512 @TSOP32(ADP:Pin9 to 1)     W29N01HVSINA  @TSOP48               
+      W29N01HZSINA  @TSOP48               W29N01HWSINA  @TSOP48               W29N01HZSINF  @TSOP48               W29N01HWSINF  @TSOP48               
+      W29N01GVSCAA @TSOP48                W29N01GVSIAA @TSOP48                W29N02GVSxAA @TSOP48                W29N02GVSxAF @TSOP48                
+      W29N02KVSIAE @TSOP48                W29N02KVSIAF @TSOP48                W29N04GVSIAA @TSOP48                W29N08GVSIAA @TSOP48                
+      W29N08GVSIAF @TSOP48                W39F010                             W39F010 @PLCC32                     W39F010 @TSOP32                     
+      W39F010 @TSOP32(ADP:Pin9 to 1)      W39L010 @PLCC32                     W39L010 @TSOP32                     W39L010 @TSOP32(ADP:Pin9 to 1)      
+      W39L020 @PLCC32                     W39L020 @TSOP32                     W39L020 @TSOP32(ADP:Pin9 to 1)      W39L040 @PLCC32                     
+      W39L040 @TSOP32                     W39L040 @TSOP32(ADP:Pin9 to 1)      W39L040A                            W39L040AP @PLCC32                   
+      W39L040AT @TSOP32                   W39L040AT @TSOP32(ADP:Pin9 to 1)    W39L040AQ @VSOP32                   W39L040AQ @VSOP32(ADP:Pin9 to 1)    
+      W39L512 @PLCC32                     W39L512 @TSOP32                     W39L512 @TSOP32(ADP:Pin9 to 1)      W39V040A  @PLCC32                   
+      W39V040A  @TSOP32                   W39V040A  @TSOP32(ADP:Pin9 to 1)    W39V040B  @PLCC32                   W39V040B  @TSOP32                   
+      W39V040B  @TSOP32(ADP:Pin9 to 1)    W39V040C  @PLCC32                   W39V040C  @TSOP32                   W39V040C  @TSOP32(ADP:Pin9 to 1)    
+      W39V040FA @PLCC32                   W39V040FA @TSOP32                   W39V040FA @TSOP32(ADP:Pin9 to 1)    W39V040FB @PLCC32                   
+      W39V040FB @TSOP32                   W39V040FB @TSOP32(ADP:Pin9 to 1)    W39V040FC @PLCC32                   W39V040FC @TSOP32                   
+      W39V040FC @TSOP32(ADP:Pin9 to 1)    W39V080A  @PLCC32                   W39V080A  @TSOP32                   W39V080A  @TSOP32(ADP:Pin9 to 1)    
+      W39V080A  @TSOP40                   W39V080FA @PLCC32                   W39V080FA @TSOP32                   W39V080FA @TSOP32(ADP:Pin9 to 1)    
+      W39V080FA @TSOP40                   W49F002                             W49F002 @PLCC32                     W49F002 @TSOP32                     
+      W49F002 @TSOP32(ADP:Pin9 to 1)      W49F002A                            W49F002A @PLCC32                    W49F002A @TSOP32                    
+      W49F002A @TSOP32(ADP:Pin9 to 1)     W49F002B                            W49F002B @PLCC32                    W49F002B @TSOP32                    
+      W49F002B @TSOP32(ADP:Pin9 to 1)     W49F002U                            W49F002U @PLCC32                    W49F002U @TSOP32                    
+      W49F002U @TSOP32(ADP:Pin9 to 1)     W49F020                             W49F020 @PLCC32                     W49F020 @TSOP32                     
+      W49F020 @TSOP32(ADP:Pin9 to 1)      W49F102Q(10x14mm) @VSOP40           W49F201T @TSOP48                    W49F201S @SOP44                     
+      W49L102Q(10x14mm) @VSOP40           W49L201T @TSOP48                    W49L201S @SOP44                     W49V002 @PLCC32                     
+      W49V002 @TSOP32                     W49V002 @TSOP32(ADP:Pin9 to 1)      W49V002A @PLCC32                    W49V002A @TSOP32                    
+      W49V002A @TSOP32(ADP:Pin9 to 1)     W49V002F @PLCC32                    W49V002F @TSOP32                    W49V002F @TSOP32(ADP:Pin9 to 1)     
+      W49V002FA @PLCC32                   W49V002FA @TSOP32                   W49V002FA @TSOP32(ADP:Pin9 to 1)    W78E51 @DIP40                       
+      W78E51 @PLCC44                      W78E51B @DIP40                      W78E51BP @PLCC44                    W78E51C @DIP40                      
+      W78E51CP @PLCC44                    W78E52 @DIP40                       W78E52 @PLCC44                      W78E52B @DIP40                      
+      W78E52BP @PLCC44                    W78E52C @DIP40                      W78E52CP @PLCC44                    W78E54 @DIP40                       
+      W78E54 @PLCC44                      W78E54B @DIP40                      W78E54BP @PLCC44                    W78E54C @DIP40                      
+      W78E54CP @PLCC44                    W78E58 @DIP40                       W78E58P @PLCC44                     
 
-         IC Support: 734 PCS
+         IC Support: 747 PCS
 
  [ WINGSHING ]     
 
@@ -5609,9 +5622,10 @@
       PSU1GA30AT @TSOP48                  PSU1GA30BT @TSOP48                  PSU1GA30HT @TSOP48                  PSU2GA30BT @TSOP48                  
       PSU4GA30BT @TSOP48                  MR20H10  (EVERSPIN) @DFN8(5x6mm)    MR20H40  (EVERSPIN) @DFN8(5x6mm)    MR20H256 (EVERSPIN) @DFN8(5x6mm)    
       MR20H256A(EVERSPIN) @DFN8(5x6mm)    MR20H512 (EVERSPIN) @DFN8(5x6mm)    MR25H10  (EVERSPIN) @DFN8(5x6mm)    MR25H40  (EVERSPIN) @DFN8(5x6mm)    
-      MR25H256 (EVERSPIN) @DFN8(5x6mm)    MR25H256A(EVERSPIN) @DFN8(5x6mm)    MR25H512 (EVERSPIN) @DFN8(5x6mm)    
+      MR25H256 (EVERSPIN) @DFN8(5x6mm)    MR25H256A(EVERSPIN) @DFN8(5x6mm)    MR25H512 (EVERSPIN) @DFN8(5x6mm)    (HUADA)CIU25Q016B @SOP8             
+      (HUADA)CIU25Q016B @WSON8            (HUADA)CIU25Q016B @USON8            
 
-         IC Support: 23 PCS
+         IC Support: 26 PCS
 
  [ Standard SRAM ]     
 
@@ -5713,4 +5727,4 @@
          IC Support: 324 PCS
 
 
-   Total: 19272 PCS
+   Total: 19326 PCS
