@@ -1,13 +1,15 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V12.96  Date : 8.5.2025
-           Supported Devices:   19326
- Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
+            Software Version:   V13.04  Date : 9.23.2025
+           Supported Devices:   19336
+ Supported Operating Systems:   Windows XP Win7 WIN8 WIN10 WIN11
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
  
+ 
+
  [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
@@ -2124,39 +2126,39 @@
       GD25R64E @WSON8                     GD25R64E @USON8                     GD25R64E @SOP16                     GD25R127D @SOP8                     
       GD25R127D @WSON8                    GD25R127D @USON8                    GD25R127D @SOP16                    GD25R128E @SOP8                     
       GD25R128E @WSON8                    GD25R128E @USON8                    GD25R128E @SOP16                    GD25R256E @SOIC8                    
-      GD25R256E @SOIC16                   GD25LR256E @SOIC8                   GD25LR256E @SOIC16                  GD25R512ME @SOIC8                   
-      GD25R512ME @SOIC16                  GD25S512MD @SOIC8                   GD25S512MD @SOIC16                  GD25S513MD @SOIC8                   
-      GD25S513MD @SOIC16                  GD25T512ME @SOIC8                   GD25T512ME @SOIC16                  GD25VE20C                           
-      GD25VE20C @SOP8                     GD25VE20C @VSOP8                    GD25VE20C @WSON8                    GD25VE21B                           
-      GD25VE21B @SOP8                     GD25VE21B @VSOP8                    GD25VE21B @WSON8                    GD25VE40C                           
-      GD25VE40C @SOP8                     GD25VE40C @TSSOP8                   GD25VE40C @WSON8                    GD25VE80C                           
-      GD25VE80C @SOP8                     GD25VE80C @VSOP8                    GD25VE80C @WSON8                    GD25VE16C                           
-      GD25VE16C @SOP8                     GD25VE16C @VSOP8                    GD25VE16C @WSON8                    GD25VE32C                           
-      GD25VE32C @SOP8                     GD25VE32C @VSOP8                    GD25VE32C @WSON8                    GD25VE64C                           
-      GD25VE64C @SOP8                     GD25VE64C @USON8                    GD25VE64C @SOP16                    GD25VQ20C                           
-      GD25VQ20C @SOP8                     GD25VQ20C @VSOP8                    GD25VQ20C @WSON8                    GD25VQ21B                           
-      GD25VQ21B @SOP8                     GD25VQ21B @VSOP8                    GD25VQ21B @WSON8                    GD25VQ40C                           
-      GD25VQ40C @SOP8                     GD25VQ40C @TSSOP8                   GD25VQ40C @WSON8                    GD25VQ80C                           
-      GD25VQ80C @SOP8                     GD25VQ80C @VSOP8                    GD25VQ80C @WSON8                    GD25VQ16C                           
-      GD25VQ16C @SOP8                     GD25VQ16C @VSOP8                    GD25VQ16C @WSON8                    GD25VQ32C                           
-      GD25VQ32C @SOP8                     GD25VQ32C @VSOP8                    GD25VQ32C @WSON8                    GD25VQ64C                           
-      GD25VQ64C @SOP8                     GD25VQ64C @USON8                    GD25VQ64C @SOP16                    GD25VQ127C                          
-      GD25VQ127C @SOP8                    GD25VQ127C @USON8                   GD25VQ127C @SOP16                   GD25WD05C @SOP8                     
-      GD25WD05C @USON8                    GD25WD10C @SOP8                     GD25WD10C @USON8                    GD25WD20C @SOP8                     
-      GD25WD20C @USON8                    GD25WD40C @SOP8                     GD25WD40C @USON8                    GD25WD80C @SOP8                     
-      GD25WD80C @USON8                    GD25WQ20E @SOP8                     GD25WQ20E @WSON8                    GD25WQ20E @USON8                    
-      GD25WQ40E @SOP8                     GD25WQ40E @WSON8                    GD25WQ40E @USON8                    GD25WQ80E @SOP8                     
-      GD25WQ80E @WSON8                    GD25WQ80E @USON8                    GD25WQ16E @SOP8                     GD25WQ16E @WSON8                    
-      GD25WQ16E @USON8                    GD25WQ32E @SOP8                     GD25WQ32E @WSON8                    GD25WQ32E @USON8                    
-      GD25WQ64E @SOP8                     GD25WQ64E @WSON8                    GD25WQ64E @USON8                    GD25WQ64E @SOP16                    
-      GD25WQ128E @SOP8                    GD25WQ128E @WSON8                   GD25WQ128E @USON8                   GD25WQ128E @SOP16                   
-      GD25WQ256E @SOIC8                   GD25WQ256E @SOIC16                  MD25T80                             MD25T80 @SOP8                       
-      MD25D20                             MD25D20 @SOP8                       MD25D40                             MD25D40 @SOP8                       
-      MD25D80                             MD25D80 @SOP8                       MD25D16                             MD25D16 @SOP8                       
-      MD25Q128 @SOIC8                     MD25Q128 @WSON8                     MD25Q128 @SOIC16                    MD25Q128A @SOIC8                    
-      MD25Q128A @WSON8                    MD25Q128A @SOIC16                   
+      GD25R256E @SOIC16                   GD25LR256E @SOIC8                   GD25LR256E @SOIC16                  GD25LR512E @SOIC8                   
+      GD25LR512E @SOIC16                  GD25R512ME @SOIC8                   GD25R512ME @SOIC16                  GD25S512MD @SOIC8                   
+      GD25S512MD @SOIC16                  GD25S513MD @SOIC8                   GD25S513MD @SOIC16                  GD25T512ME @SOIC8                   
+      GD25T512ME @SOIC16                  GD25VE20C                           GD25VE20C @SOP8                     GD25VE20C @VSOP8                    
+      GD25VE20C @WSON8                    GD25VE21B                           GD25VE21B @SOP8                     GD25VE21B @VSOP8                    
+      GD25VE21B @WSON8                    GD25VE40C                           GD25VE40C @SOP8                     GD25VE40C @TSSOP8                   
+      GD25VE40C @WSON8                    GD25VE80C                           GD25VE80C @SOP8                     GD25VE80C @VSOP8                    
+      GD25VE80C @WSON8                    GD25VE16C                           GD25VE16C @SOP8                     GD25VE16C @VSOP8                    
+      GD25VE16C @WSON8                    GD25VE32C                           GD25VE32C @SOP8                     GD25VE32C @VSOP8                    
+      GD25VE32C @WSON8                    GD25VE64C                           GD25VE64C @SOP8                     GD25VE64C @USON8                    
+      GD25VE64C @SOP16                    GD25VQ20C                           GD25VQ20C @SOP8                     GD25VQ20C @VSOP8                    
+      GD25VQ20C @WSON8                    GD25VQ21B                           GD25VQ21B @SOP8                     GD25VQ21B @VSOP8                    
+      GD25VQ21B @WSON8                    GD25VQ40C                           GD25VQ40C @SOP8                     GD25VQ40C @TSSOP8                   
+      GD25VQ40C @WSON8                    GD25VQ80C                           GD25VQ80C @SOP8                     GD25VQ80C @VSOP8                    
+      GD25VQ80C @WSON8                    GD25VQ16C                           GD25VQ16C @SOP8                     GD25VQ16C @VSOP8                    
+      GD25VQ16C @WSON8                    GD25VQ32C                           GD25VQ32C @SOP8                     GD25VQ32C @VSOP8                    
+      GD25VQ32C @WSON8                    GD25VQ64C                           GD25VQ64C @SOP8                     GD25VQ64C @USON8                    
+      GD25VQ64C @SOP16                    GD25VQ127C                          GD25VQ127C @SOP8                    GD25VQ127C @USON8                   
+      GD25VQ127C @SOP16                   GD25WD05C @SOP8                     GD25WD05C @USON8                    GD25WD10C @SOP8                     
+      GD25WD10C @USON8                    GD25WD20C @SOP8                     GD25WD20C @USON8                    GD25WD40C @SOP8                     
+      GD25WD40C @USON8                    GD25WD80C @SOP8                     GD25WD80C @USON8                    GD25WQ20E @SOP8                     
+      GD25WQ20E @WSON8                    GD25WQ20E @USON8                    GD25WQ40E @SOP8                     GD25WQ40E @WSON8                    
+      GD25WQ40E @USON8                    GD25WQ80E @SOP8                     GD25WQ80E @WSON8                    GD25WQ80E @USON8                    
+      GD25WQ16E @SOP8                     GD25WQ16E @WSON8                    GD25WQ16E @USON8                    GD25WQ32E @SOP8                     
+      GD25WQ32E @WSON8                    GD25WQ32E @USON8                    GD25WQ64E @SOP8                     GD25WQ64E @WSON8                    
+      GD25WQ64E @USON8                    GD25WQ64E @SOP16                    GD25WQ128E @SOP8                    GD25WQ128E @WSON8                   
+      GD25WQ128E @USON8                   GD25WQ128E @SOP16                   GD25WQ256E @SOIC8                   GD25WQ256E @SOIC16                  
+      MD25T80                             MD25T80 @SOP8                       MD25D20                             MD25D20 @SOP8                       
+      MD25D40                             MD25D40 @SOP8                       MD25D80                             MD25D80 @SOP8                       
+      MD25D16                             MD25D16 @SOP8                       MD25Q128 @SOIC8                     MD25Q128 @WSON8                     
+      MD25Q128 @SOIC16                    MD25Q128A @SOIC8                    MD25Q128A @WSON8                    MD25Q128A @SOIC16                   
 
-         IC Support: 374 PCS
+         IC Support: 376 PCS
 
  [ GREEN-ENGINE ]     
 
@@ -2865,119 +2867,121 @@
       MX25U8035E (OTP) @USON8             MX25U8035E (OTP) @WSON8             MX25U1635E  @SOP8                   MX25U1635E  @USON8                  
       MX25U1635E  @WSON8                  MX25U1635E (OTP) @SOP8              MX25U1635E (OTP) @USON8             MX25U1635E (OTP) @WSON8             
       MX25U1635F  @SOP8                   MX25U1635F  @USON8                  MX25U1635F  @WSON8                  MX25U1635F (OTP) @SOP8              
-      MX25U1635F (OTP) @USON8             MX25U1635F (OTP) @WSON8             MX25U3235E  @SOP8                   MX25U3235E  @USON8                  
-      MX25U3235E  @WSON8                  MX25U3235E (OTP) @SOP8              MX25U3235E (OTP) @USON8             MX25U3235E (OTP) @WSON8             
-      MX25U3235F  @SOP8                   MX25U3235F  @USON8                  MX25U3235F  @WSON8                  MX25U3235F (OTP) @SOP8              
-      MX25U3235F (OTP) @USON8             MX25U3235F (OTP) @WSON8             MX25U6435F  @SOP8                   MX25U6435F  @USON8                  
-      MX25U6435F  @WSON8                  MX25U6435F (OTP) @SOP8              MX25U6435F (OTP) @USON8             MX25U6435F (OTP) @WSON8             
-      MX25U6473F  @SOP8                   MX25U6473F  @USON8                  MX25U6473F  @WSON8                  MX25U6473F (OTP) @SOP8              
-      MX25U6473F (OTP) @USON8             MX25U6473F (OTP) @WSON8             MX25U12835F @SOP8                   MX25U12835F @WSON8                  
-      MX25U12835F @SOP16                  MX25U12835F(OTP) @SOP8              MX25U12835F(OTP) @WSON8             MX25U12835F(OTP) @SOP16             
-      MX25U12873F @SOP8                   MX25U12873F @WSON8                  MX25U12873F @SOP16                  MX25U25635F @SOIC8                  
-      MX25U25635F @SOIC16                 MX25U25673F @SOIC8                  MX25U25673F @SOIC16                 MX25U25673G @SOIC8                  
-      MX25U25673G @SOIC16                 MX25U25643G @SOIC8                  MX25U25643G @SOIC16                 MX25U25643G(OTP) @SOIC8             
-      MX25U25643G(OTP) @SOIC16            MX25U25645G @SOIC8                  MX25U25645G @SOIC16                 MX25U25645G(OTP) @SOIC8             
-      MX25U25645G(OTP) @SOIC16            MX25U51245G @SOIC8                  MX25U51245G @SOIC16                 MX25U51245G(OTP) @SOIC8             
-      MX25U51245G(OTP) @SOIC16            MX25V512                            MX25V512 @SOP8                      MX25V512 @WSOP8                     
-      MX25V512C                           MX25V512C @SOP8                     MX25V512C @WSOP8                    MX25V512E                           
-      MX25V512E @SOP8                     MX25V512E @WSOP8                    MX25V512F                           MX25V512F @SOP8                     
-      MX25V512F @WSOP8                    MX25V512F(OTP)                      MX25V512F(OTP) @SOP8                MX25V512F(OTP) @WSOP8               
-      MX25V1006E                          MX25V1006E @SOP8                    MX25V1006E @WSOP8                   MX25V1006F                          
-      MX25V1006F @SOP8                    MX25V1006F @WSOP8                   MX25V1035F                          MX25V1035F @SOP8                    
-      MX25V1035F @WSOP8                   MX25V1035F(OTP)                     MX25V1035F(OTP) @SOP8               MX25V1035F(OTP) @WSOP8              
-      MX25V2006E                          MX25V2006E @SOP8                    MX25V2006E @WSOP8                   MX25V2035F                          
-      MX25V2035F @SOP8                    MX25V2035F @WSOP8                   MX25V2035F(OTP)                     MX25V2035F(OTP) @SOP8               
-      MX25V2035F(OTP) @WSOP8              MX25V4005                           MX25V4005 @SOP8                     MX25V4005 @WSON8                    
-      MX25V4006E                          MX25V4006E @SOP8                    MX25V4006E @WSON8                   MX25V4035                           
-      MX25V4035 @SOP8                     MX25V4035 @WSON8                    MX25V4035(OTP)                      MX25V4035(OTP) @SOP8                
-      MX25V4035(OTP) @WSON8               MX25V4035F                          MX25V4035F @SOP8                    MX25V4035F @WSON8                   
-      MX25V4035F(OTP)                     MX25V4035F(OTP) @SOP8               MX25V4035F(OTP) @WSON8              MX25V8005                           
-      MX25V8005 @SOP8                     MX25V8005 @WSON8                    MX25V8006E                          MX25V8006E @SOP8                    
-      MX25V8006E @WSON8                   MX25V8035                           MX25V8035 @SOP8                     MX25V8035 @WSON8                    
-      MX25V8035(OTP)                      MX25V8035(OTP) @SOP8                MX25V8035(OTP) @WSON8               MX25V8035F                          
-      MX25V8035F @SOP8                    MX25V8035F @WSON8                   MX25V8035F(OTP)                     MX25V8035F(OTP) @SOP8               
-      MX25V8035F(OTP) @WSON8              MX25V1635F @SOP8                    MX25V1635F @WSON8                   MX25V1635F(OTP) @SOP8               
-      MX25V1635F(OTP) @WSON8              MX25V3233F @SOP8                    MX25V3233F @WSON8                   MX25V3233F(OTP) @SOP8               
-      MX25V3233F(OTP) @WSON8              MX25V3235F @SOP8                    MX25V3235F @WSON8                   MX25V3235F(OTP) @SOP8               
-      MX25V3235F(OTP) @WSON8              MX25V6433F @SOP8                    MX25V6433F @WSON8                   MX25V6433F @SOIC16                  
-      MX25V6433F(OTP) @SOP8               MX25V6433F(OTP) @SOIC16             MX26C1000                           MX26C1000 @PLCC32                   
-      MX26C1000 @TSOP32                   MX26C1000 @TSOP32(ADP:Pin9 to 1)    MX26C2000                           MX26C2000 @PLCC32                   
-      MX26C2000 @TSOP32                   MX26C2000 @TSOP32(ADP:Pin9 to 1)    MX26C4000                           MX26C4000 @PLCC32                   
-      MX26C4000 @TSOP32                   MX26C4000 @TSOP32(ADP:Pin9 to 1)    MX26LV004B @PLCC32                  MX26LV004B @TSOP40                  
-      MX26LV004T @PLCC32                  MX26LV004T @TSOP40                  MX26LV008B @TSOP40                  MX26LV008T @TSOP40                  
-      MX26LV040                           MX26LV040 @PLCC32                   MX26LV040 @TSOP32                   MX26LV040 @TSOP32(ADP:Pin9 to 1)    
-      MX26LV160B @TSOP48                  MX26LV160T @TSOP48                  MX26LV400B @TSOP48                  MX26LV400T @TSOP48                  
-      MX26LV800B @TSOP48                  MX26LV800T @TSOP48                  MX27C1000 @DIP32                    MX27C1000 @PLCC32                   
-      MX27C1000 @TSOP32                   MX27C1000 @TSOP32(ADP:Pin9 to 1)    MX27C1000A @DIP32                   MX27C1000A @PLCC32                  
-      MX27C1000A @TSOP32                  MX27C1000A @TSOP32(ADP:Pin9 to 1)   MX27C1024  @DIP40                   MX27C2000 @DIP32                    
-      MX27C2000 @PLCC32                   MX27C2000 @TSOP32                   MX27C2000 @TSOP32(ADP:Pin9 to 1)    MX27C2000A @DIP32                   
-      MX27C2000A @PLCC32                  MX27C2000A @TSOP32                  MX27C2000A @TSOP32(ADP:Pin9 to 1)   MX27C2048  @DIP40                   
-      MX27C256 @DIP28                     MX27C256 @PLCC32                    MX27C4000 @DIP32                    MX27C4000 @PLCC32                   
-      MX27C4000 @TSOP32                   MX27C4000 @TSOP32(ADP:Pin9 to 1)    MX27C4000A @DIP32                   MX27C4000A @PLCC32                  
-      MX27C4000A @TSOP32                  MX27C4000A @TSOP32(ADP:Pin9 to 1)   MX27C4096  @DIP40                   MX27C512 @DIP28                     
-      MX27C512 @PLCC32                    MX27C8000 @DIP32                    MX27C8000 @PLCC32                   MX27C8000 @TSOP32                   
-      MX27C8000 @TSOP32(ADP:Pin9 to 1)    MX27C8000A @DIP32                   MX27C8000A @PLCC32                  MX27C8000A @TSOP32                  
-      MX27C8000A @TSOP32(ADP:Pin9 to 1)   MX27L1000 @DIP32                    MX27L1000 @PLCC32                   MX27L1000 @TSOP32                   
-      MX27L1000 @TSOP32(ADP:Pin9 to 1)    MX27L2000 @DIP32                    MX27L2000 @PLCC32                   MX27L2000 @TSOP32                   
-      MX27L2000 @TSOP32(ADP:Pin9 to 1)    MX27L256 @DIP28                     MX27L256 @PLCC32                    MX27L4000 @DIP32                    
-      MX27L4000 @PLCC32                   MX27L4000 @TSOP32                   MX27L4000 @TSOP32(ADP:Pin9 to 1)    MX27L4096 @DIP40                    
-      MX27L512 @DIP28                     MX27L512 @PLCC32                    MX28F1000P                          MX28F1000P @PLCC32                  
-      MX28F1000P @TSOP32                  MX28F1000P @TSOP32(ADP:Pin9 to 1)   MX28F160C3B @TSOP48                 MX28F160C3T @TSOP48                 
-      MX28F2000P                          MX28F2000P @PLCC32                  MX28F2000P @TSOP32                  MX28F2000P @TSOP32(ADP:Pin9 to 1)   
-      MX28F2000T                          MX28F2100B @TSOP48                  MX28F640C3B @TSOP48                 MX28F640C3T @TSOP48                 
-      MX29F001B @DIP32                    MX29F001B @PLCC32                   MX29F001B @TSOP32                   MX29F001B @TSOP32(ADP:Pin9 to 1)    
-      MX29F001T @DIP32                    MX29F001T @PLCC32                   MX29F001T @TSOP32                   MX29F001T @TSOP32(ADP:Pin9 to 1)    
-      MX29F002B @DIP32                    MX29F002B @PLCC32                   MX29F002B @TSOP32                   MX29F002B @TSOP32(ADP:Pin9 to 1)    
-      MX29F002NB @DIP32                   MX29F002NB @PLCC32                  MX29F002NB @TSOP32                  MX29F002NB @TSOP32(ADP:Pin9 to 1)   
-      MX29F002NT @DIP32                   MX29F002NT @PLCC32                  MX29F002NT @TSOP32                  MX29F002NT @TSOP32(ADP:Pin9 to 1)   
-      MX29F002T @DIP32                    MX29F002T @PLCC32                   MX29F002T @TSOP32                   MX29F002T @TSOP32(ADP:Pin9 to 1)    
-      MX29F004B @DIP32                    MX29F004B @PLCC32                   MX29F004B @TSOP32                   MX29F004B @TSOP32(ADP:Pin9 to 1)    
-      MX29F004T @DIP32                    MX29F004T @PLCC32                   MX29F004T @TSOP32                   MX29F004T @TSOP32(ADP:Pin9 to 1)    
-      MX29F022B @DIP32                    MX29F022B @PLCC32                   MX29F022B @TSOP32                   MX29F022B @TSOP32(ADP:Pin9 to 1)    
-      MX29F022NB @DIP32                   MX29F022NB @PLCC32                  MX29F022NB @TSOP32                  MX29F022NB @TSOP32(ADP:Pin9 to 1)   
-      MX29F022NT @DIP32                   MX29F022NT @PLCC32                  MX29F022NT @TSOP32                  MX29F022NT @TSOP32(ADP:Pin9 to 1)   
-      MX29F022T @DIP32                    MX29F022T @PLCC32                   MX29F022T @TSOP32                   MX29F022T @TSOP32(ADP:Pin9 to 1)    
-      MX29F040 @DIP32                     MX29F040 @PLCC32                    MX29F040 @TSOP32                    MX29F040 @TSOP32(ADP:Pin9 to 1)     
-      MX29F040C @DIP32                    MX29F040C @PLCC32                   MX29F040C @TSOP32                   MX29F040C @TSOP32(ADP:Pin9 to 1)    
-      MX29F080 @TSOP40                    MX29F100B @TSOP48                   MX29F100B @SOP44                    MX29F100T @TSOP48                   
-      MX29F100T @SOP44                    MX29F200B @TSOP48                   MX29F200B @SOP44                    MX29F200CB @TSOP48                  
-      MX29F200CB @SOP44                   MX29F200CT @TSOP48                  MX29F200CT @SOP44                   MX29F200T @TSOP48                   
-      MX29F200T @SOP44                    MX29F400B @TSOP48                   MX29F400B @SOP44                    MX29F400CB @TSOP48                  
-      MX29F400CB @SOP44                   MX29F400CT @TSOP48                  MX29F400CT @SOP44                   MX29F400T @TSOP48                   
-      MX29F400T @SOP44                    MX29F800B @TSOP48                   MX29F800B @SOP44                    MX29F800CB @TSOP48                  
-      MX29F800CB @SOP44                   MX29F800CT @TSOP48                  MX29F800CT @SOP44                   MX29F800T @TSOP48                   
-      MX29F800T @SOP44                    MX29LV002CB @PLCC32                 MX29LV002CB @TSOP32                 MX29LV002CB @TSOP32(ADP:Pin9 to 1)  
-      MX29LV002NCB @PLCC32                MX29LV002NCB @TSOP32                MX29LV002NCB @TSOP32(ADP:Pin9 to 1) MX29LV002NCT @PLCC32                
-      MX29LV002NCT @TSOP32                MX29LV002NCT @TSOP32(ADP:Pin9 to 1) MX29LV002CT @PLCC32                 MX29LV002CT @TSOP32                 
-      MX29LV002CT @TSOP32(ADP:Pin9 to 1)  MX29LV004B @PLCC32                  MX29LV004B @TSOP32                  MX29LV004B @TSOP32(ADP:Pin9 to 1)   
-      MX29LV004B @TSOP40                  MX29LV004CB @TSOP40                 MX29LV004CT @TSOP40                 MX29LV004T @PLCC32                  
-      MX29LV004T @TSOP32                  MX29LV004T @TSOP32(ADP:Pin9 to 1)   MX29LV004T @TSOP40                  MX29LV008B @TSOP40                  
-      MX29LV008BB @TSOP40                 MX29LV008BT @TSOP40                 MX29LV008CB @TSOP40                 MX29LV008CT @TSOP40                 
-      MX29LV008T @TSOP40                  MX29LV017AT @TSOP40                 MX29LV017BT @TSOP40                 MX29LV040 @PLCC32                   
-      MX29LV040 @TSOP32                   MX29LV040 @TSOP32(ADP:Pin9 to 1)    MX29LV040C @PLCC32                  MX29LV040C @TSOP32                  
-      MX29LV040C @TSOP32(ADP:Pin9 to 1)   MX29LV160B @TSOP48                  MX29LV160AB @TSOP48                 MX29LV160AT @TSOP48                 
-      MX29LV160BB @TSOP48                 MX29LV160BT @TSOP48                 MX29LV160CB @TSOP48                 MX29LV160CT @TSOP48                 
-      MX29LV160DB @TSOP48                 MX29LV160DT @TSOP48                 MX29LV160EB @TSOP48                 MX29LV160ET @TSOP48                 
-      MX29LV160T  @TSOP48                 MX29LV161B @TSOP48                  MX29LV161T @TSOP48                  MX29LV161DB @TSOP48                 
-      MX29LV161DT @TSOP48                 MX29LV320AB @TSOP48                 MX29LV320AT @TSOP48                 MX29LV320B  @TSOP48                 
-      MX29LV320BB @TSOP48                 MX29LV320BT @TSOP48                 MX29LV320CB @TSOP48                 MX29LV320CT @TSOP48                 
-      MX29LV320DB @TSOP48                 MX29LV320DT @TSOP48                 MX29LV320EB @TSOP48                 MX29LV320ET @TSOP48                 
-      MX29LV320MB @TSOP48                 MX29LV320MT @TSOP48                 MX29LV320T  @TSOP48                 MX29LV400B @TSOP48                  
-      MX29LV400B @SOP44                   MX29LV400BB @TSOP48                 MX29LV400BB @SOP44                  MX29LV400BT @TSOP48                 
-      MX29LV400BT @SOP44                  MX29LV400CB @TSOP48                 MX29LV400CB @SOP44                  MX29LV400CT @TSOP48                 
-      MX29LV400CT @SOP44                  MX29LV400T @TSOP48                  MX29LV400T @SOP44                   MX29LV640BB @TSOP48                 
-      MX29LV640BT @TSOP48                 MX29LV640EB @TSOP48                 MX29LV640ET @TSOP48                 MX29LV640MB @TSOP48                 
-      MX29LV640MT @TSOP48                 MX29LV800B @TSOP48                  MX29LV800B @SOP44                   MX29LV800BB @TSOP48                 
-      MX29LV800BB @SOP44                  MX29LV800BT @TSOP48                 MX29LV800BT @SOP44                  MX29LV800CB @TSOP48                 
-      MX29LV800CB @SOP44                  MX29LV800CT @TSOP48                 MX29LV800CT @SOP44                  MX29LV800T @TSOP48                  
-      MX29LV800T @SOP44                   MX30LF1208AA @TSOP48                MX30LF1G08AA @TSOP48                MX30LF1G18AC @TSOP48                
-      MX30LF1GE8AB @TSOP48                MX30LF1G28AC @TSOP48                MX30LF1G28AD @TSOP48                MX30LF2G18AB @TSOP48                
-      MX30LF2G18AC @TSOP48                MX30LF2G28AB @TSOP48                MX30LF2G28AC @TSOP48                MX30LF2G28AD @TSOP48                
-      MX30LF2G18SC @TSOP48                MX30LF2GE8AB @TSOP48                MX30LF4G18AB @TSOP48                MX30LF4G18AC @TSOP48                
-      MX30LF4G28AB @TSOP48                MX30LF4G28AC @TSOP48                MX30LF4G28AD @TSOP48                MX30LF4GE8AB @TSOP48                
-      MX60LF8G18AC @TSOP48                MX60LF8G28AB @TSOP48                MX60LF8G28AC @TSOP48                MX60LF8G28AD @TSOP48                
+      MX25U1635F (OTP) @USON8             MX25U1635F (OTP) @WSON8             MX25U3230F  @SOP8                   MX25U3230F  @USON8                  
+      MX25U3230F  @WSON8                  MX25U3230F (OTP) @SOP8              MX25U3230F (OTP) @USON8             MX25U3230F (OTP) @WSON8             
+      MX25U3235E  @SOP8                   MX25U3235E  @USON8                  MX25U3235E  @WSON8                  MX25U3235E (OTP) @SOP8              
+      MX25U3235E (OTP) @USON8             MX25U3235E (OTP) @WSON8             MX25U3235F  @SOP8                   MX25U3235F  @USON8                  
+      MX25U3235F  @WSON8                  MX25U3235F (OTP) @SOP8              MX25U3235F (OTP) @USON8             MX25U3235F (OTP) @WSON8             
+      MX25U6435F  @SOP8                   MX25U6435F  @USON8                  MX25U6435F  @WSON8                  MX25U6435F (OTP) @SOP8              
+      MX25U6435F (OTP) @USON8             MX25U6435F (OTP) @WSON8             MX25U6473F  @SOP8                   MX25U6473F  @USON8                  
+      MX25U6473F  @WSON8                  MX25U6473F (OTP) @SOP8              MX25U6473F (OTP) @USON8             MX25U6473F (OTP) @WSON8             
+      MX25U12835F @SOP8                   MX25U12835F @WSON8                  MX25U12835F @SOP16                  MX25U12835F(OTP) @SOP8              
+      MX25U12835F(OTP) @WSON8             MX25U12835F(OTP) @SOP16             MX25U12873F @SOP8                   MX25U12873F @WSON8                  
+      MX25U12873F @SOP16                  MX25U25635F @SOIC8                  MX25U25635F @SOIC16                 MX25U25673F @SOIC8                  
+      MX25U25673F @SOIC16                 MX25U25673G @SOIC8                  MX25U25673G @SOIC16                 MX25U25643G @SOIC8                  
+      MX25U25643G @SOIC16                 MX25U25643G(OTP) @SOIC8             MX25U25643G(OTP) @SOIC16            MX25U25645G @SOIC8                  
+      MX25U25645G @SOIC16                 MX25U25645G(OTP) @SOIC8             MX25U25645G(OTP) @SOIC16            MX25U51245G @SOIC8                  
+      MX25U51245G @SOIC16                 MX25U51245G(OTP) @SOIC8             MX25U51245G(OTP) @SOIC16            MX25V512                            
+      MX25V512 @SOP8                      MX25V512 @WSOP8                     MX25V512C                           MX25V512C @SOP8                     
+      MX25V512C @WSOP8                    MX25V512E                           MX25V512E @SOP8                     MX25V512E @WSOP8                    
+      MX25V512F                           MX25V512F @SOP8                     MX25V512F @WSOP8                    MX25V512F(OTP)                      
+      MX25V512F(OTP) @SOP8                MX25V512F(OTP) @WSOP8               MX25V1006E                          MX25V1006E @SOP8                    
+      MX25V1006E @WSOP8                   MX25V1006F                          MX25V1006F @SOP8                    MX25V1006F @WSOP8                   
+      MX25V1035F                          MX25V1035F @SOP8                    MX25V1035F @WSOP8                   MX25V1035F(OTP)                     
+      MX25V1035F(OTP) @SOP8               MX25V1035F(OTP) @WSOP8              MX25V2006E                          MX25V2006E @SOP8                    
+      MX25V2006E @WSOP8                   MX25V2035F                          MX25V2035F @SOP8                    MX25V2035F @WSOP8                   
+      MX25V2035F(OTP)                     MX25V2035F(OTP) @SOP8               MX25V2035F(OTP) @WSOP8              MX25V4005                           
+      MX25V4005 @SOP8                     MX25V4005 @WSON8                    MX25V4006E                          MX25V4006E @SOP8                    
+      MX25V4006E @WSON8                   MX25V4035                           MX25V4035 @SOP8                     MX25V4035 @WSON8                    
+      MX25V4035(OTP)                      MX25V4035(OTP) @SOP8                MX25V4035(OTP) @WSON8               MX25V4035F                          
+      MX25V4035F @SOP8                    MX25V4035F @WSON8                   MX25V4035F(OTP)                     MX25V4035F(OTP) @SOP8               
+      MX25V4035F(OTP) @WSON8              MX25V8005                           MX25V8005 @SOP8                     MX25V8005 @WSON8                    
+      MX25V8006E                          MX25V8006E @SOP8                    MX25V8006E @WSON8                   MX25V8035                           
+      MX25V8035 @SOP8                     MX25V8035 @WSON8                    MX25V8035(OTP)                      MX25V8035(OTP) @SOP8                
+      MX25V8035(OTP) @WSON8               MX25V8035F                          MX25V8035F @SOP8                    MX25V8035F @WSON8                   
+      MX25V8035F(OTP)                     MX25V8035F(OTP) @SOP8               MX25V8035F(OTP) @WSON8              MX25V1635F @SOP8                    
+      MX25V1635F @WSON8                   MX25V1635F(OTP) @SOP8               MX25V1635F(OTP) @WSON8              MX25V3233F @SOP8                    
+      MX25V3233F @WSON8                   MX25V3233F(OTP) @SOP8               MX25V3233F(OTP) @WSON8              MX25V3235F @SOP8                    
+      MX25V3235F @WSON8                   MX25V3235F(OTP) @SOP8               MX25V3235F(OTP) @WSON8              MX25V6433F @SOP8                    
+      MX25V6433F @WSON8                   MX25V6433F @SOIC16                  MX25V6433F(OTP) @SOP8               MX25V6433F(OTP) @SOIC16             
+      MX26C1000                           MX26C1000 @PLCC32                   MX26C1000 @TSOP32                   MX26C1000 @TSOP32(ADP:Pin9 to 1)    
+      MX26C2000                           MX26C2000 @PLCC32                   MX26C2000 @TSOP32                   MX26C2000 @TSOP32(ADP:Pin9 to 1)    
+      MX26C4000                           MX26C4000 @PLCC32                   MX26C4000 @TSOP32                   MX26C4000 @TSOP32(ADP:Pin9 to 1)    
+      MX26LV004B @PLCC32                  MX26LV004B @TSOP40                  MX26LV004T @PLCC32                  MX26LV004T @TSOP40                  
+      MX26LV008B @TSOP40                  MX26LV008T @TSOP40                  MX26LV040                           MX26LV040 @PLCC32                   
+      MX26LV040 @TSOP32                   MX26LV040 @TSOP32(ADP:Pin9 to 1)    MX26LV160B @TSOP48                  MX26LV160T @TSOP48                  
+      MX26LV400B @TSOP48                  MX26LV400T @TSOP48                  MX26LV800B @TSOP48                  MX26LV800T @TSOP48                  
+      MX27C1000 @DIP32                    MX27C1000 @PLCC32                   MX27C1000 @TSOP32                   MX27C1000 @TSOP32(ADP:Pin9 to 1)    
+      MX27C1000A @DIP32                   MX27C1000A @PLCC32                  MX27C1000A @TSOP32                  MX27C1000A @TSOP32(ADP:Pin9 to 1)   
+      MX27C1024  @DIP40                   MX27C2000 @DIP32                    MX27C2000 @PLCC32                   MX27C2000 @TSOP32                   
+      MX27C2000 @TSOP32(ADP:Pin9 to 1)    MX27C2000A @DIP32                   MX27C2000A @PLCC32                  MX27C2000A @TSOP32                  
+      MX27C2000A @TSOP32(ADP:Pin9 to 1)   MX27C2048  @DIP40                   MX27C256 @DIP28                     MX27C256 @PLCC32                    
+      MX27C4000 @DIP32                    MX27C4000 @PLCC32                   MX27C4000 @TSOP32                   MX27C4000 @TSOP32(ADP:Pin9 to 1)    
+      MX27C4000A @DIP32                   MX27C4000A @PLCC32                  MX27C4000A @TSOP32                  MX27C4000A @TSOP32(ADP:Pin9 to 1)   
+      MX27C4096  @DIP40                   MX27C512 @DIP28                     MX27C512 @PLCC32                    MX27C8000 @DIP32                    
+      MX27C8000 @PLCC32                   MX27C8000 @TSOP32                   MX27C8000 @TSOP32(ADP:Pin9 to 1)    MX27C8000A @DIP32                   
+      MX27C8000A @PLCC32                  MX27C8000A @TSOP32                  MX27C8000A @TSOP32(ADP:Pin9 to 1)   MX27L1000 @DIP32                    
+      MX27L1000 @PLCC32                   MX27L1000 @TSOP32                   MX27L1000 @TSOP32(ADP:Pin9 to 1)    MX27L2000 @DIP32                    
+      MX27L2000 @PLCC32                   MX27L2000 @TSOP32                   MX27L2000 @TSOP32(ADP:Pin9 to 1)    MX27L256 @DIP28                     
+      MX27L256 @PLCC32                    MX27L4000 @DIP32                    MX27L4000 @PLCC32                   MX27L4000 @TSOP32                   
+      MX27L4000 @TSOP32(ADP:Pin9 to 1)    MX27L4096 @DIP40                    MX27L512 @DIP28                     MX27L512 @PLCC32                    
+      MX28F1000P                          MX28F1000P @PLCC32                  MX28F1000P @TSOP32                  MX28F1000P @TSOP32(ADP:Pin9 to 1)   
+      MX28F160C3B @TSOP48                 MX28F160C3T @TSOP48                 MX28F2000P                          MX28F2000P @PLCC32                  
+      MX28F2000P @TSOP32                  MX28F2000P @TSOP32(ADP:Pin9 to 1)   MX28F2000T                          MX28F2100B @TSOP48                  
+      MX28F640C3B @TSOP48                 MX28F640C3T @TSOP48                 MX29F001B @DIP32                    MX29F001B @PLCC32                   
+      MX29F001B @TSOP32                   MX29F001B @TSOP32(ADP:Pin9 to 1)    MX29F001T @DIP32                    MX29F001T @PLCC32                   
+      MX29F001T @TSOP32                   MX29F001T @TSOP32(ADP:Pin9 to 1)    MX29F002B @DIP32                    MX29F002B @PLCC32                   
+      MX29F002B @TSOP32                   MX29F002B @TSOP32(ADP:Pin9 to 1)    MX29F002NB @DIP32                   MX29F002NB @PLCC32                  
+      MX29F002NB @TSOP32                  MX29F002NB @TSOP32(ADP:Pin9 to 1)   MX29F002NT @DIP32                   MX29F002NT @PLCC32                  
+      MX29F002NT @TSOP32                  MX29F002NT @TSOP32(ADP:Pin9 to 1)   MX29F002T @DIP32                    MX29F002T @PLCC32                   
+      MX29F002T @TSOP32                   MX29F002T @TSOP32(ADP:Pin9 to 1)    MX29F004B @DIP32                    MX29F004B @PLCC32                   
+      MX29F004B @TSOP32                   MX29F004B @TSOP32(ADP:Pin9 to 1)    MX29F004T @DIP32                    MX29F004T @PLCC32                   
+      MX29F004T @TSOP32                   MX29F004T @TSOP32(ADP:Pin9 to 1)    MX29F022B @DIP32                    MX29F022B @PLCC32                   
+      MX29F022B @TSOP32                   MX29F022B @TSOP32(ADP:Pin9 to 1)    MX29F022NB @DIP32                   MX29F022NB @PLCC32                  
+      MX29F022NB @TSOP32                  MX29F022NB @TSOP32(ADP:Pin9 to 1)   MX29F022NT @DIP32                   MX29F022NT @PLCC32                  
+      MX29F022NT @TSOP32                  MX29F022NT @TSOP32(ADP:Pin9 to 1)   MX29F022T @DIP32                    MX29F022T @PLCC32                   
+      MX29F022T @TSOP32                   MX29F022T @TSOP32(ADP:Pin9 to 1)    MX29F040 @DIP32                     MX29F040 @PLCC32                    
+      MX29F040 @TSOP32                    MX29F040 @TSOP32(ADP:Pin9 to 1)     MX29F040C @DIP32                    MX29F040C @PLCC32                   
+      MX29F040C @TSOP32                   MX29F040C @TSOP32(ADP:Pin9 to 1)    MX29F080 @TSOP40                    MX29F100B @TSOP48                   
+      MX29F100B @SOP44                    MX29F100T @TSOP48                   MX29F100T @SOP44                    MX29F200B @TSOP48                   
+      MX29F200B @SOP44                    MX29F200CB @TSOP48                  MX29F200CB @SOP44                   MX29F200CT @TSOP48                  
+      MX29F200CT @SOP44                   MX29F200T @TSOP48                   MX29F200T @SOP44                    MX29F400B @TSOP48                   
+      MX29F400B @SOP44                    MX29F400CB @TSOP48                  MX29F400CB @SOP44                   MX29F400CT @TSOP48                  
+      MX29F400CT @SOP44                   MX29F400T @TSOP48                   MX29F400T @SOP44                    MX29F800B @TSOP48                   
+      MX29F800B @SOP44                    MX29F800CB @TSOP48                  MX29F800CB @SOP44                   MX29F800CT @TSOP48                  
+      MX29F800CT @SOP44                   MX29F800T @TSOP48                   MX29F800T @SOP44                    MX29LV002CB @PLCC32                 
+      MX29LV002CB @TSOP32                 MX29LV002CB @TSOP32(ADP:Pin9 to 1)  MX29LV002NCB @PLCC32                MX29LV002NCB @TSOP32                
+      MX29LV002NCB @TSOP32(ADP:Pin9 to 1) MX29LV002NCT @PLCC32                MX29LV002NCT @TSOP32                MX29LV002NCT @TSOP32(ADP:Pin9 to 1) 
+      MX29LV002CT @PLCC32                 MX29LV002CT @TSOP32                 MX29LV002CT @TSOP32(ADP:Pin9 to 1)  MX29LV004B @PLCC32                  
+      MX29LV004B @TSOP32                  MX29LV004B @TSOP32(ADP:Pin9 to 1)   MX29LV004B @TSOP40                  MX29LV004CB @TSOP40                 
+      MX29LV004CT @TSOP40                 MX29LV004T @PLCC32                  MX29LV004T @TSOP32                  MX29LV004T @TSOP32(ADP:Pin9 to 1)   
+      MX29LV004T @TSOP40                  MX29LV008B @TSOP40                  MX29LV008BB @TSOP40                 MX29LV008BT @TSOP40                 
+      MX29LV008CB @TSOP40                 MX29LV008CT @TSOP40                 MX29LV008T @TSOP40                  MX29LV017AT @TSOP40                 
+      MX29LV017BT @TSOP40                 MX29LV040 @PLCC32                   MX29LV040 @TSOP32                   MX29LV040 @TSOP32(ADP:Pin9 to 1)    
+      MX29LV040C @PLCC32                  MX29LV040C @TSOP32                  MX29LV040C @TSOP32(ADP:Pin9 to 1)   MX29LV160B @TSOP48                  
+      MX29LV160AB @TSOP48                 MX29LV160AT @TSOP48                 MX29LV160BB @TSOP48                 MX29LV160BT @TSOP48                 
+      MX29LV160CB @TSOP48                 MX29LV160CT @TSOP48                 MX29LV160DB @TSOP48                 MX29LV160DT @TSOP48                 
+      MX29LV160EB @TSOP48                 MX29LV160ET @TSOP48                 MX29LV160T  @TSOP48                 MX29LV161B @TSOP48                  
+      MX29LV161T @TSOP48                  MX29LV161DB @TSOP48                 MX29LV161DT @TSOP48                 MX29LV320AB @TSOP48                 
+      MX29LV320AT @TSOP48                 MX29LV320B  @TSOP48                 MX29LV320BB @TSOP48                 MX29LV320BT @TSOP48                 
+      MX29LV320CB @TSOP48                 MX29LV320CT @TSOP48                 MX29LV320DB @TSOP48                 MX29LV320DT @TSOP48                 
+      MX29LV320EB @TSOP48                 MX29LV320ET @TSOP48                 MX29LV320MB @TSOP48                 MX29LV320MT @TSOP48                 
+      MX29LV320T  @TSOP48                 MX29LV400B @TSOP48                  MX29LV400B @SOP44                   MX29LV400BB @TSOP48                 
+      MX29LV400BB @SOP44                  MX29LV400BT @TSOP48                 MX29LV400BT @SOP44                  MX29LV400CB @TSOP48                 
+      MX29LV400CB @SOP44                  MX29LV400CT @TSOP48                 MX29LV400CT @SOP44                  MX29LV400T @TSOP48                  
+      MX29LV400T @SOP44                   MX29LV640BB @TSOP48                 MX29LV640BT @TSOP48                 MX29LV640EB @TSOP48                 
+      MX29LV640ET @TSOP48                 MX29LV640MB @TSOP48                 MX29LV640MT @TSOP48                 MX29LV800B @TSOP48                  
+      MX29LV800B @SOP44                   MX29LV800BB @TSOP48                 MX29LV800BB @SOP44                  MX29LV800BT @TSOP48                 
+      MX29LV800BT @SOP44                  MX29LV800CB @TSOP48                 MX29LV800CB @SOP44                  MX29LV800CT @TSOP48                 
+      MX29LV800CT @SOP44                  MX29LV800T @TSOP48                  MX29LV800T @SOP44                   MX30LF1208AA @TSOP48                
+      MX30LF1G08AA @TSOP48                MX30LF1G18AC @TSOP48                MX30LF1GE8AB @TSOP48                MX30LF1G28AC @TSOP48                
+      MX30LF1G28AD @TSOP48                MX30LF2G18AB @TSOP48                MX30LF2G18AC @TSOP48                MX30LF2G28AB @TSOP48                
+      MX30LF2G28AC @TSOP48                MX30LF2G28AD @TSOP48                MX30LF2G18SC @TSOP48                MX30LF2GE8AB @TSOP48                
+      MX30LF4G18AB @TSOP48                MX30LF4G18AC @TSOP48                MX30LF4G28AB @TSOP48                MX30LF4G28AC @TSOP48                
+      MX30LF4G28AD @TSOP48                MX30LF4GE8AB @TSOP48                MX60LF8G18AC @TSOP48                MX60LF8G28AB @TSOP48                
+      MX60LF8G28AC @TSOP48                MX60LF8G28AD @TSOP48                
 
-         IC Support: 1048 PCS
+         IC Support: 1054 PCS
 
  [ MAXCOM ]     
 
@@ -3976,11 +3980,11 @@
       FM24CL16                            FM24CL16 @SOIC8                     FM24CL64                            FM25040                             
       FM25040 @SOIC8                      FM25C160                            FM25C160 @SOIC8                     FM25640                             
       FM25640 @SOIC8                      FM25CL04                            FM25CL04 @SOIC8                     FM25CL64                            
-      FM25CL64 @SOIC8                     FM25L16                             FM25L16 @SOIC8                      FM25L256                            
-      FM25L256 @SOIC8                     FM25L512                            FM25L512 @SOIC8                     FM25W256                            
-      FM25W256 @SOIC8                     
+      FM25CL64 @SOIC8                     FM25L04                             FM25L04 @SOIC8                      FM25L16                             
+      FM25L16 @SOIC8                      FM25L256                            FM25L256 @SOIC8                     FM25L512                            
+      FM25L512 @SOIC8                     FM25W256                            FM25W256 @SOIC8                     
 
-         IC Support: 49 PCS
+         IC Support: 51 PCS
 
  [ RATO ]     
 
@@ -5727,4 +5731,4 @@
          IC Support: 324 PCS
 
 
-   Total: 19326 PCS
+   Total: 19336 PCS
